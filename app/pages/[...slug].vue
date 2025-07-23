@@ -25,6 +25,7 @@ console.log("VAL", route.path, val.value);
     <br /><br />
     <br /><br />
     <br /><br />
+    <Hero></Hero>
     <!-- <ContentRenderer v-if="val" :value="val" /> -->
     <div>
       not working not workings not working not working not working not working
